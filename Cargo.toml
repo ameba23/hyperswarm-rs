@@ -28,7 +28,7 @@ async-compat = "0.1.0"
 multicast-socket = "0.2.1"
 hex = "0.4.3"
 pretty-hash = "0.4.1"
-hyperswarm-dht = { git = "https://github.com/Frando/hyperswarm-dht.git", branch = "hyperspace" }
+hyperswarm-dht = { git = "https://github.com/bltavares/hyperswarm-dht.git", branch = "wip" }
 colmeia-hyperswarm-mdns = { git = "https://github.com/bltavares/colmeia.git" }
 async-std-utp = { version = "0.1.1", optional = true }
 
